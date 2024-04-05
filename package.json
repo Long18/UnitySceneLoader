@@ -1,0 +1,13 @@
+{
+  "name": "long18.scene-loader",
+  "version": "1.0.0",
+  "displayName": "Scene Loader",
+  "description": "Scene loader and scene structure",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "dependencies": {
+    "com.unity.addressables": "1.21.19",
+    "com.cysharp.unitask": "2.5.0",
+    "com.long18.extensions-core": "0.0.1"
+  }
+}
