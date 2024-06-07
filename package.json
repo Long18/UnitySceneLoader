@@ -2,6 +2,7 @@
   "name": "long18.scene-loader",
   "version": "1.0.0",
   "displayName": "Scene Loader",
+  "author": { "name": "Thành Long - William", "url": "https://long18.github.io/" },
   "description": "Scene loader and scene structure",
   "unity": "2022.3",
   "unityRelease": "0f1",
